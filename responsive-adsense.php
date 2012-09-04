@@ -76,7 +76,7 @@ class ResponsiveAdsenseWidget extends WP_Widget {
 		$output = '';
 		echo $before_widget;
 		echo '<script type="text/javascript"><!--
-var adWidget = $(\'script\').last().parents(\'.widget\'), adWidth = adWidget.width(), google_ad_client = "ca-pub-'.$instance['pub_ID'].'";
+var adWidget = jQuery(\'script\').last().parent(), adWidth = adWidget.width(), google_ad_client = "ca-pub-'.$instance['pub_ID'].'";
 ';
 		if ( !empty($instance['lb']) ) {
 			$output .= 'if ( adWidth>=728 ) {
