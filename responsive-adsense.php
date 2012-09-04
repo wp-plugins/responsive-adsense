@@ -76,6 +76,7 @@ class ResponsiveAdsenseWidget extends WP_Widget {
 		$output = '';
 		echo $before_widget;
 		echo '<script type="text/javascript"><!--
+(function($) {
 var adWidgetInner = $(\'script\').last().parent(), adWidth = adWidgetInner.width(), google_ad_client = "ca-pub-'.$instance['pub_ID'].'";
 ';
 		if ( !empty($instance['lb']) ) {
@@ -109,6 +110,7 @@ var adWidgetInner = $(\'script\').last().parent(), adWidth = adWidgetInner.width
 		}
 		echo $output.'
 adWidgetInner.width(google_ad_width);
+})(jQuery);
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>'.$after_widget;
