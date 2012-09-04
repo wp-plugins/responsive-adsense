@@ -3,7 +3,7 @@
 Plugin Name: Responsive Adsense
 Plugin URI: http://webmaestro.fr/responsive-adsense-plugin-for-wordpress/
 Description: Display the ads that fit.
-Version: 1.0
+Version: 1.1
 Author: WebMaestro.Fr
 Author URI: http://webmaestro.fr
 License: GPL2
