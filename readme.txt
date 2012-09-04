@@ -4,7 +4,7 @@ Donate link: http://webmaestro.fr/responsive-adsense-plugin-for-wordpress/
 Tags: responsive, google, adsense, advert
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,10 +32,16 @@ No answer neither.
 
 == Changelog ==
 
+= 1.1 =
+* Fix JS error.
+
 = 1.0 =
 * First commit.
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Fix JS error.
 
 = 1.0 =
 * First commit.
