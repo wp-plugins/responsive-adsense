@@ -1,6 +1,6 @@
 === Responsive Adsense ===
 Contributors: WebMaestro.Fr
-Donate link: http://webmaestro.fr/responsive-adsense-plugin-for-wordpress/
+Donate link: http://webmaestro.fr/blog/responsive-adsense-plugin-for-wordpress/
 Tags: responsive, google, adsense, advert
 Requires at least: 3.0
 Tested up to: 3.4.1
