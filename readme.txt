@@ -12,6 +12,8 @@ Display the ads that fit.
 
 == Description ==
 
+**Google Adsense now provides [responsive ad units](https://support.google.com/adsense/answer/3213689), therefore you do not need this plugin anymore.**
+
 It’s a simple widget that works with your Google Adsense “Publisher ID” and your units IDs. It will display on your pages the bigger unit that can fit in the widget container.
 
 == Installation ==
